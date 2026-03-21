@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>UI/Widgets/TMTextField.qml</file>
+        <file>UI/Windows/AuthWindow.qml</file>
+        <file>UI/Windows/OperationsWindow.qml</file>
+    </qresource>
+</RCC>
