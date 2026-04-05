@@ -25,7 +25,6 @@ qt_add_qml_module(TMApp
     URI TMApp
     VERSION 1.0
     QML_FILES Main.qml ${TMAppQML}
-    QML_FILES UI/Widgets/TMTextButton.qml
 )
 
 target_include_directories(TMApp PUBLIC
